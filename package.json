@@ -1,0 +1,23 @@
+{
+  "name": "apiary_demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bluebird": "2.10.2",
+    "immutable": "3.7.5",
+    "lodash": "4.11.1",
+    "material-ui": "0.20.0",    
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17",
+    "redux": "3.6.0",
+    "redux-router": "1.0.0-beta3",
+    "redux-thunk": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
